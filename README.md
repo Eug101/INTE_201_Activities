@@ -3,7 +3,11 @@ Here contains the activities of student named: Ethan Ulrick D. Gueta, Year and S
 
 Activities for Week 1 for INTE 201 - Programming 3 under the Week 1 - Activities Branch
 View the PDF for complete documentation.
+
 Basic: (https://www.jdoodle.com/ia/juvg-kjy5-qjtf)
+
 Intermediate: (https://www.jdoodle.com/ia/8hw7-y5wb-kqqx)
+
 Advanced: (https://www.jdoodle.com/ia/y4tr-v7fp-mu77)
+
 Expert: (https://www.jdoodle.com/ia/9jes-vcte-zabb)
