@@ -5,9 +5,15 @@ Activities for Week 1 for INTE 201 - Programming 3 under the Week 1 - Activities
 View the PDF for complete documentation.
 
 Basic: (https://www.jdoodle.com/ia/juvg-kjy5-qjtf)
-
 Intermediate: (https://www.jdoodle.com/ia/8hw7-y5wb-kqqx)
-
 Advanced: (https://www.jdoodle.com/ia/y4tr-v7fp-mu77)
-
 Expert: (https://www.jdoodle.com/ia/9jes-vcte-zabb)
+
+
+Activities for Week 1 for INTE 201 - Programming 3 under the Week 2 - Activities Branch
+View the PDF for complete documentation.
+
+Basic: (https://www.jdoodle.com/ia/dcfg-aw2d-e8ej)
+Intermediate: (https://www.jdoodle.com/ia/muy8-8pe4-t2xe)
+Advanced: (https://www.jdoodle.com/ia/9egz-5ysq-gbur)
+Expert: (https://www.jdoodle.com/ia/n7tc-9z2m-989e)
