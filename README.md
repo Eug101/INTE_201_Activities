@@ -14,7 +14,7 @@ Week 3 Program Links:
 
 2. [Week3_Intermediate_MultiTierDiscountSystem](https://www.jdoodle.com/ia/3yv3-kb37-zuc8)
    
-4. [Week3_Advanced_NestedLoginValidator](https://www.jdoodle.com/ia/5wqj-39sm-ft6p)
+3. [Week3_Advanced_NestedLoginValidator](https://www.jdoodle.com/ia/5wqj-39sm-ft6p)
    
 3A. [Week3_Advanced_NestedLoginValidator](https://www.jdoodle.com/ia/5wqj-39sm-ft6p)
 
@@ -24,4 +24,4 @@ Week 3 Program Links:
 
 3D. [Week3_Advanced_NestedLoginValidator](https://www.jdoodle.com/ia/m2fr-p89c-du86)
 
-7. [Week3_Expert_ATMTransactionAuthorizer](https://www.jdoodle.com/ia/ed49-4ear-vu4s)
+4. [Week3_Expert_ATMTransactionAuthorizer](https://www.jdoodle.com/ia/ed49-4ear-vu4s)
