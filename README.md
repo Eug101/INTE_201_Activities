@@ -1,5 +1,6 @@
 INTE 201 Week 4 - Activities
-This contains the activities of Ethan Ulrick D. Gueta, Year and Section DIT 2-3, A.Y. 2026-2027, for the 1st Semester of INTE 201 - Programming 3 (Structured Programming).
+
+This contains the activities of Ethan Ulrick D. Gueta, of DIT 2-3, for the 1st Semester of A.Y. 2026-2027, for the subject INTE 201 - Programming 3 (Structured Programming).
 
 Activities for INTE 201 - Programming 3. View the PDFs for complete and detailed documentation.
 
